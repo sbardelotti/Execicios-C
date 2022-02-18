@@ -1,0 +1,14 @@
+Turma 8A -- Quantidade de aluos na turma: 2
+1° Aluno: Testaneto
+N1: 5 N2: 8 N3: 6 N4: 9 
+Media: 7.000000
+2° Aluno: Testanildo
+N1: 5 N2: 4 N3: 6 N4: 10 
+Media: 6.250000
+Turma 8B -- Quantidade de aluos na turma: 2
+1° Aluno: Estanteneuto
+N1: 5 N2: 8 N3: 9 N4: 4 
+Media: 6.500000
+2° Aluno: Arvore
+N1: 4 N2: 5 N3: 6 N4: 2 
+Media: 4.250000
